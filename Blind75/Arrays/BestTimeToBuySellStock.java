@@ -1,5 +1,3 @@
-package Blind75;
-
 class BestTimeToBuySellStock {
     public int maxProfit(int[] prices) {
         int lowest = Integer.MAX_VALUE;
