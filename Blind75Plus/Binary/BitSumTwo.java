@@ -9,6 +9,6 @@ class BitSumTwo {
             a = answer;
             b = carry;
         }
-
+        return a;
     }    
 }
